@@ -14,6 +14,7 @@
 		7C68ED121F70B5E20014CF18 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C68ED101F70B5E20014CF18 /* LaunchScreen.storyboard */; };
 		7C68ED1D1F70B5E20014CF18 /* _1_Map_Pin_PlistTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C68ED1C1F70B5E20014CF18 /* _1_Map_Pin_PlistTests.swift */; };
 		7C68ED281F70B5E20014CF18 /* _1_Map_Pin_PlistUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C68ED271F70B5E20014CF18 /* _1_Map_Pin_PlistUITests.swift */; };
+		7C68ED361F70B9860014CF18 /* Viewpoint3.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7C68ED351F70B9860014CF18 /* Viewpoint3.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		7C68ED231F70B5E20014CF18 /* 01_Map_Pin_PlistUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 01_Map_Pin_PlistUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C68ED271F70B5E20014CF18 /* _1_Map_Pin_PlistUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _1_Map_Pin_PlistUITests.swift; sourceTree = "<group>"; };
 		7C68ED291F70B5E20014CF18 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7C68ED351F70B9860014CF18 /* Viewpoint3.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Viewpoint3.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				7C68ED071F70B5E20014CF18 /* AppDelegate.swift */,
 				7C68ED091F70B5E20014CF18 /* ViewController.swift */,
 				7C68ED0B1F70B5E20014CF18 /* Main.storyboard */,
+				7C68ED351F70B9860014CF18 /* Viewpoint3.plist */,
 				7C68ED0E1F70B5E20014CF18 /* Assets.xcassets */,
 				7C68ED101F70B5E20014CF18 /* LaunchScreen.storyboard */,
 				7C68ED131F70B5E20014CF18 /* Info.plist */,
@@ -234,6 +237,7 @@
 			files = (
 				7C68ED121F70B5E20014CF18 /* LaunchScreen.storyboard in Resources */,
 				7C68ED0F1F70B5E20014CF18 /* Assets.xcassets in Resources */,
+				7C68ED361F70B9860014CF18 /* Viewpoint3.plist in Resources */,
 				7C68ED0D1F70B5E20014CF18 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
